@@ -6,21 +6,21 @@ Tested on PIC24FJ64GB004
 
 ##Pin out:
 ####LCD:
-*RS: RB11
-*E: RB10
-*D4: RB9
-*D5: RB8
-*D6: RB7
-*D7: RB5
+* RS: RB11
+* E: RB10
+* D4: RB9
+* D5: RB8
+* D6: RB7
+* D7: RB5
 
 ####NOTE: 	
 These pins were chosen because they are 5V tolerant. Using other pins with a 5V display may cause magic smoke.
  
 ####Joystick:
-*X-Axis: RA0
-*Y-Axis: RA1
-*Button 1: RB14
-*Button 2: RB15
+* X-Axis: RA0
+* Y-Axis: RA1
+* Button 1: RB14
+* Button 2: RB15
 
 ####NOTE:	
 1. Power the joystick with 3.3 V, otherwise you will toast the microcontroller.
